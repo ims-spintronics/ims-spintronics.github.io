@@ -6,7 +6,7 @@ subtitle: Intelligent Materials & Systems Lab · Division of Physics and Applied
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Website1.jpg
   image_circular: true
   more_info: >
     <p>School of Physical and Mathematical Sciences</p>
